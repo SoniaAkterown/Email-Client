@@ -1,0 +1,21 @@
+{
+  "users" : [ {
+    "email" : "as@er.com",
+    "passwordHash" : "$2a$10$7Rax7xh4cIZY40Dp.qCnuOSSmVqyjBOax/deeW9dtfkoCxWVknr0O"
+  }, {
+    "email" : "curl_verify@example.com",
+    "passwordHash" : "$2a$10$H.6LC8uyUs9dEmnxmjnxse/EwskvOIOBHiAtBvYkxIOi1iV7dUAD6"
+  }, {
+    "email" : "2@s.com",
+    "passwordHash" : "$2a$10$QOwitw2Dey/Az2Xqmq2iCu2PMYGKtR9SxE8UOYnZQzD6974bPTRfy"
+  }, {
+    "email" : "2@com",
+    "passwordHash" : "$2a$10$BkZijNwMd701TzxDqAQsZeWyeIgDqGl.lmp/d2FG2ZCZCIJD1a.m2"
+  }, {
+    "email" : "5@com",
+    "passwordHash" : "$2a$10$vCAWMBfMNbCzgEDlM07rcez1xFLolsl8eU.b.qEvhQZ.g/LgopZnG"
+  }, {
+    "email" : "sonia242-15-608@diu.edu.bd",
+    "passwordHash" : "$2a$10$6Rnr0kSgsrTL5yOevs7vXuUVeUJC/B0eknGg9BSyZpFdFxA1ax06."
+  } ]
+}

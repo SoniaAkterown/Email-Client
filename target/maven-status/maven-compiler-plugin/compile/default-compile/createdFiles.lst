@@ -1,0 +1,11 @@
+com\example\emailwrapper\model\EmailDTO.class
+com\example\emailwrapper\service\UserService$1.class
+com\example\emailwrapper\controller\UserController.class
+com\example\emailwrapper\service\EmailService.class
+com\example\emailwrapper\model\User.class
+com\example\emailwrapper\controller\EmailController.class
+com\example\emailwrapper\service\EmailService$1.class
+com\example\emailwrapper\model\SentEmail.class
+com\example\emailwrapper\service\UserService.class
+com\example\emailwrapper\EmailWrapperApplication.class
+com\example\emailwrapper\model\EmailRequest.class
