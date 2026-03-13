@@ -43,7 +43,7 @@ The goal of this project is to simulate the basic functionality of modern email 
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/SoniaAkterown/Email-Client/blob/main/Screenshot%202026-03-13%20151517.png?raw=true)
 
 ### Email Dashboard
 
