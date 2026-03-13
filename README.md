@@ -62,9 +62,8 @@ The goal of this project is to simulate the basic functionality of modern email 
 
 # ⚙ Installation Guide
 
-## 1️⃣ Clone the Repository
-
 ```bash
+1️⃣ Clone the Repository
 git clone https://github.com/SoniaAkterown/Email-Client.git
 
 2️⃣ Build the Project
@@ -76,7 +75,6 @@ mvn spring-boot:run
 4️⃣ Open in Browser
 After running the application, open your browser and go to:
 http://localhost:8080
-
 
 
 ## 📂 Project Structure
