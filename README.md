@@ -47,7 +47,7 @@ The goal of this project is to simulate the basic functionality of modern email 
 
 ### Email Dashboard
 
-![Inbox](screenshots/inbox.png)
+![Inbox](https://github.com/SoniaAkterown/Email-Client/blob/main/Screenshot%202026-03-13%20151557.png?raw=true)
 
 ---
 
