@@ -1,4 +1,4 @@
-<h1 align="center">📧 Email Client / Email Wrapper</h1>
+<h1 align="center">📧 Email Client </h1>
 
 <p align="center">
 A simple web-based Email Client that allows users to register, log in, and manage emails with a clean and modern interface.
