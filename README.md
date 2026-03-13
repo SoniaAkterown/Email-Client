@@ -39,7 +39,7 @@ The goal of this project is to simulate the basic functionality of modern email 
 
 ---
 
-# 🖼 Project Screenshots
+# 🖼 Project UI
 
 ### Login Page
 
